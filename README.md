@@ -14,7 +14,7 @@ BombRush Cyberfunk Map Texture Swapper with Extra QOL play settings.
 ## QOL Features
 
 * **DIRTY TAGGING IS BACK!!!** This Pre-Patch mod brings back from the early BRC the ability to repeat graffiti tagging the same spot during the same combo without the need to touch the floor, or just tag the same spot over and over while in the air/grinding, etc.
-* **NoBoostTrail / TURNS OFF BOOST'S TRAILS + PARTICLES** *(has to be paired with transparent spark textures on UABEAvalonia [included].)*
+* **NoBoostTrail (Beta) / PARTIALLY TURNS OFF BOOST'S TRAILS + PARTICLES**
 * **HARDERCHARGE aka Boost Multiplier!** Set a ratio for both earn or waste boost to make the game feel more grindier or easier!
 
 ---
