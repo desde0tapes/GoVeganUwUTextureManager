@@ -19,7 +19,7 @@ BombRush Cyberfunk Map Texture Swapper with Extra QOL play settings.
 
 ---
 
-## Old v1 Features Still Intact
+## Map Texture Features
 
 * **MAP TEXTURE PACK MANAGING.** Quickly activate map texture packs from the community or make your own!
 * **HideCypherSpot** Hides the cypher spot upon entering a stage.
