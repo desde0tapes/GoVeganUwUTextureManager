@@ -111,6 +111,7 @@ For example if you want to make a "night" version of a map that lacks an Emissio
 
 <img width="741" height="565" alt="image" src="https://github.com/user-attachments/assets/18846808-869b-4669-90ea-1ab416cd4ea3" />
 
+<img width="1130" height="666" alt="image" src="https://github.com/user-attachments/assets/c849227a-66db-4850-966f-d04416b14e20" />
 
 ---
 
