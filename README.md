@@ -43,11 +43,9 @@ BombRush Cyberfunk Map Texture Swapper with Extra QOL play settings.
 
 ## What is the Texture Manager?
 
-So I kinda wanted to do this tool for activating texture packs for maps 'cause troubleshooting textures for my map retextures was getting kinda hard 'cause I run a very slow PC, so restarting over and over was getting outta hand, plus the people wanting to swap the vanilla maps' textures faster might find it useful.
+Usually the regular way of changing Map textures of the vanilla BRC maps was with a asset modifier like UABEAvalonia or alike.
 
-This makes the hurdle of editing, loading, and saving assets / map textures via UABE to be made entirely within Windows Explorer instead and completely automatic and sortable for different texture packs at the same time easily.
-
-**tl;dr You can quickly swap vanilla and custom recolored map textures anytime without messing with the internal files. It basically pre-scans the stage's texture names and compares it to the selected Active Pack; if no matches, it uses the vanilla one, otherwise it swaps the texture.**
+Now you can quickly swap vanilla and custom map retextures anytime without messing with the internal files. It basically pre-scans the stage's texture names and compares it to the selected Active Pack; if no matches, it uses the vanilla one, otherwise it swaps the texture.**
 
 Works for Vanilla or Mapstation maps.
 
