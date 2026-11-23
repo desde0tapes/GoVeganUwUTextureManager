@@ -29,7 +29,7 @@ BombRush Cyberfunk Map Texture Swapper with Extra QOL play settings.
 ## Important If You Are Updating
 
 1. Delete your config file (it will create a new config file when you start the game, so it can correctly add the new options). It is called `com.desezerotapes.govegantexturemngr.cfg`, located in your `config` folder inside `BepInEx`.
-2. Add and replace the new files from the zip in your same Plugin folder. That's it!
+2. Replace the new plugin folder from the zip in your same GoVeganTextureManager plugin folder. That's it!
 
 ---
 
