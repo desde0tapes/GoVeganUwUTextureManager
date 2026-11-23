@@ -39,8 +39,6 @@ BombRush Cyberfunk Map Texture Swapper with Extra QOL play settings.
 2. Run the game once to generate necessary files and close.
 3. Run game again. *(Hideout floor should be darker, meaning it worked; you can delete the ground texture of the Untitled pack from now on)*
 
-*(It's the same process for the Lite version; the folder should be "GoVeganTextureManager" too.)*
-
 ---
 
 ## What is the Texture Manager?
