@@ -103,6 +103,17 @@ Or include it in any texture pack folder, overriding the skybox of any vanilla m
 
 ---
 
+## Map Emissions Attacher
+
+**INSTRUCTIONS TO USE:** Include a PNG with the `_NewEmission.png` suffix in your selected texture pack and it will add as an emission texture to any map!
+
+For example if you want to make a "night" version of a map that lacks an Emission Texture, add in your selected pack the same texture with your emissions using the same name file but add _NewEmission to the end of it.
+
+<img width="741" height="565" alt="image" src="https://github.com/user-attachments/assets/18846808-869b-4669-90ea-1ab416cd4ea3" />
+
+
+---
+
 ## NoBoostTrail Details
 
 ![NoBoostTrail Example](https://ia801003.us.archive.org/24/items/screenshot-2433/Screenshot%20%282433%29.png)
@@ -118,5 +129,3 @@ The sparks are barely noticeable in-game originally, so after this switch, the N
 Refer to [this tutorial](https://gamebanana.com/mods/577264) to learn how replacing textures on UABEAvalonia works.
 
 ---
-
-Because of how I made it, I guess it's Public Domain / Creative Commons—feel free to reverse engineer it, open source it, sell it, or whatever you want, even ask me for the code if you want. No need to credit me.
